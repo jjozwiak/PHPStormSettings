@@ -1,0 +1,58 @@
+<templateSet group="Refills">
+  <template name="hero-scss" value=".hero {&#10;  $base-border-radius: 3px !default;&#10;  $action-color: #477DCA !default;&#10;  $large-screen: em(860) !default;&#10;  $hero-background-top: #7F99BE;&#10;  $hero-background-bottom: #20392B;&#10;  $hero-color: white;&#10;  $gradient-angle: 10deg;&#10;  $hero-image: 'https:&#10;//raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';&#10;&#10;  @include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);&#10;  background-color: #324766;&#10;  background-position: top;&#10;  background-repeat: no-repeat;&#10;  background-size: cover;&#10;  padding-bottom: 3em;&#10;&#10;  .hero-logo img {&#10;    height: 4em;&#10;    margin-bottom: 1em;&#10;  }&#10;&#10;  .hero-inner {&#10;    @include outer-container;&#10;    @include clearfix;&#10;    margin: auto;&#10;    padding: 3.5em;&#10;    text-align: center;&#10;&#10;    .hero-copy {&#10;      text-align: center;&#10;&#10;      h1 {&#10;        color: $hero-color;&#10;        font-size: 1.6em;&#10;        margin-bottom: 0.5em;&#10;&#10;        @include media($large-screen) {&#10;          font-size: 1.8em;&#10;        }&#10;      }&#10;&#10;      p {&#10;        color: $hero-color;&#10;        line-height: 1.4em;&#10;        margin: 0 auto 3em auto;&#10;&#10;        @include media($large-screen) {&#10;          font-size: 1.1em;&#10;          max-width: 40%;&#10;        }&#10;      }&#10;    }&#10;  }&#10;}" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="SQL" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="true" />
+      <option name="CSS" value="false" />
+      <option name="Twig" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="PHP" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="hero-html" value="&lt;div class=&quot;hero&quot;&gt;&#10;    &lt;div class=&quot;hero-inner&quot;&gt;&#10;        &lt;a href=&quot;&quot; class=&quot;hero-logo&quot;&gt;&lt;img src=&quot;https:&quot; alt=&quot;Logo Image&quot;&gt;&lt;/a&gt;&#10;        &lt;div class=&quot;hero-copy&quot;&gt;&#10;            &lt;h1&gt;Short description of Product&lt;/h1&gt;&#10;            &lt;p&gt;A few reasons why this product is worth using, who it's for and why they need it.&lt;/p&gt;&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;&#10;&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="SQL" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="Twig" value="true" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="PHP" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+      <option name="HAML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>

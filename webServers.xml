@@ -1,0 +1,129 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5b2085b0-8715-4f9c-8304-f35e345fb725" name="Obagi Responsive" url="http://local.obagir.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3f116007-ee6c-4165-9c24-72038fc264e8" name="Laravel Tut" url="http://local.laraveltut.com/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="24cd76d1-f417-4fd0-bcd7-a1db480f54a3" name="AmLactin" url="http://local.amlactin.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="65a47ac0-f232-418c-8f2f-faf23bcf2d9e" name="Merz Intranet" url="http://local.merzintranet.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="a3aab964-f1f5-474f-babe-0307e24631fc" name="D7 Sandbox" url="http://local.d7.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="65e8b3bc-f495-4f95-b547-9ca3ef0f637e" name="Jason Jozwiak DOT com" url="http://local.jasonjozwiak.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ef5ab3c8-7285-4704-aa14-142da5b1daa8" name="CHF" url="http://local.chf.com/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="12262a7a-fdea-4756-987b-e8522b29fa98" name="Sakura" url="http://local.sakura.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="901a042f-d4da-4094-848a-3ce2b4f2af3f" name="Radiesse Men" url="http://local.radiessemen.com/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="04e029f0-4721-4f5c-a7ea-8161e3ee1dc1" name="Merz Aesthetics" url="http://local.merzaesthetics.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="0c99e892-82bc-41e5-86d9-3ca744abd514" name="local.merzusa.com" url="http://local.merzusa.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="12c36b98-dd1c-41c3-b15e-cb42e422f2d7" name="Merz Rebates" url="http://local.merzrebates.com/app_dev.php">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="aea30300-f98c-4db4-8346-2032c3a5fbdc" name="Pharmacyclics" url="http://local.pharmacyclics.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ba7a6e10-57aa-42ee-b0e8-de9c7bc05396" name="Drupal 8" url="http://local.d8.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e866578e-fe69-4d63-87fb-d997f79a06be" name="Merz Intranet (1)" url="http://local.merzintranet.com/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3c738154-d0c8-44a9-9be9-094359b5ea1f" name="Merz Aesthetics II" url="http://local.merz-aes.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="040ffce7-2d2c-4944-a888-a81d3ed6bd91" name="Move Live Learn" url="http://local.mll.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f473309d-3eb4-443d-92a3-be7c806db725" name="local.pharmac.com" url="http://local.pharmac.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="d194f890-1d9a-49b0-b4c8-2078b0b4fd9c" name="Zuplenz" url="http://local.zuplenz.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="6ef635db-538b-4cbb-b803-e7a14f0a1912" name="UCCDC New" url="http://local.uccdc.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="190bf0f5-f124-43a2-884a-06e68e6a510f" name="local.wpsandbox.com" url="http://local.wpsandbox.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="77b8e657-7650-4551-809e-102079c512b6" name="local.schoolcal.com" url="http://local.schoolcal.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="746e1aac-4c98-41f8-9270-b10fab74bf1e" name="Belotero" url="http://local.belotero.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="8dc0247c-f506-4506-8221-505f69625075" name="local go vgo" url="http://local.go-vgo.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="59b82c3f-e8f7-45cb-8110-5bda8750741b" name="Daily Catch" url="http://homestead.app">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="6ed2a8cf-a30f-4d01-828f-90f71780f7ab" name="Belotero (1)" url="http://local.belotero.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="04d059cf-282e-4ed9-8738-f12471728d99" name="iBio Institute" url="http://local.ibioinstitute.org">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2eb77ddf-081d-4ba0-8b13-4206f3c67d28" name="iBio Propel" url="http://local.ibiopropel.org">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="060d924c-cef1-4818-9f03-c4ea38ab263e" name="USL" url="http://local.usl.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="6146cb7b-0208-4cb5-9333-8f16c168751d" name="Miller Catheter" url="http://local.millercatheter.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="c82a2735-58db-4b43-9bd5-d1f0dd848c6a" name="USL Corp" url="http://local.usl.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3b50ed1f-4f73-48fd-9697-21345f08f36b" name="local.webinarlibrary.com" url="http://local.webinarlibrary.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2ba7d763-a156-4a68-a09a-5bcb4b6df1d5" name="local.ultivainteractivedemo.com" url="http://local.ultivainteractivedemo.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3132852e-ddce-4b54-9533-4ab9c37904b3" name="Obagi Phys Finder" url="http://local.obagipf.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="403f5a87-e159-4ec0-b289-e129f9cfca0e" name="Obagi" url="http://local.obagir.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3b3e1274-5850-4826-934b-b385eeeb41fc" name="Obagi (1)" url="http://local.obagir.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="9544233b-86a6-4351-8962-bed59cfa432d" name="local.merz.com" url="http://local.merz.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="625d0689-5bfb-4e32-a754-a9c0b0d53c7c" name="local.obagir.com" url="http://local.obagir.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="c0e86e63-3986-4486-abc2-83c98d7c0832" name="local.csuite.com" url="http://local.csuite.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="bbd42910-1ca8-4f6c-9774-34ff18397996" name="local.ultiva-cs.com" url="http://local.ultiva-cs.com">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="caef6eda-554b-4fc4-a7e7-98c926d43da6" name="local.tefl.com" url="http://local.tefl.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
