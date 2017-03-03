@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Sites/tefl/app/Http/Controllers/Admin/UsersController.php'" />
-    <option name="defaultScopeName" value="File '/Sites/tefl/app/Http/Controllers/Admin/UsersController.php'" />
-    <option name="SEARCH_SCOPE" value="File '/Sites/tefl/app/Http/Controllers/Admin/UsersController.php'" />
+    <option name="customScope" value="File '/home/jjozwiak/HomesteadSites/tefl/app/Http/Controllers/RegisterController.php'" />
+    <option name="defaultScopeName" value="File '/home/jjozwiak/HomesteadSites/tefl/app/Http/Controllers/RegisterController.php'" />
+    <option name="SEARCH_SCOPE" value="File '/home/jjozwiak/HomesteadSites/tefl/app/Http/Controllers/RegisterController.php'" />
   </component>
 </application>
