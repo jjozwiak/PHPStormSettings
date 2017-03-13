@@ -124,6 +124,9 @@
       <webServer id="caef6eda-554b-4fc4-a7e7-98c926d43da6" name="local.tefl.com" url="http://local.tefl.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="82b29e55-9783-4567-82ca-7386a943963a" name="local.themosis.com" url="http://local.themosis.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
