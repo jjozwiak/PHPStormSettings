@@ -127,6 +127,9 @@
       <webServer id="82b29e55-9783-4567-82ca-7386a943963a" name="local.themosis.com" url="http://local.themosis.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="7cbac6cc-6f2f-4b57-b58b-fa480ffbd429" name="local.gitfavs.com" url="http://local.gitfavs.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
