@@ -4,7 +4,6 @@
     <variable name="TARGET" expression="" defaultValue="&quot;route.name&quot;" alwaysStopAt="true" />
     <variable name="OPTIONS" expression="" defaultValue="&quot;, 'method' =&gt; 'post'&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -14,7 +13,6 @@
     <variable name="TARGET" expression="" defaultValue="&quot;route.name&quot;" alwaysStopAt="true" />
     <variable name="OPTIONS" expression="" defaultValue="&quot; 'method' =&gt; 'post'&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -25,7 +23,6 @@
     <variable name="TARGET" expression="" defaultValue="&quot;['user.update', $user-&gt;id]&quot;" alwaysStopAt="true" />
     <variable name="OPTIONS" expression="" defaultValue="&quot;, 'method' =&gt; 'post'&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -35,7 +32,6 @@
     <variable name="DEFAULT" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
     <variable name="OPTION" expression="" defaultValue="&quot;, ['class' =&gt; 'control-label']&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -45,7 +41,6 @@
     <variable name="DEFAULT" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
     <variable name="OPTION" expression="" defaultValue="&quot;, ['class' =&gt; 'form-control']&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -55,7 +50,6 @@
     <variable name="DEFAULT" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
     <variable name="OPTION" expression="" defaultValue="&quot;, ['class' =&gt; 'form-control']&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -67,7 +61,6 @@
     <variable name="ID" expression="NAME" defaultValue="" alwaysStopAt="true" />
     <variable name="TEXT" expression="" defaultValue="&quot;Some text here&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -79,7 +72,6 @@
     <variable name="ID" expression="NAME" defaultValue="" alwaysStopAt="true" />
     <variable name="TEXT" expression="" defaultValue="&quot;Some text here&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -88,7 +80,6 @@
     <variable name="NAME" expression="" defaultValue="&quot;password&quot;" alwaysStopAt="true" />
     <variable name="OPTION" expression="" defaultValue="&quot;, ['class' =&gt; 'form-control']&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -97,7 +88,6 @@
     <variable name="NAME" expression="" defaultValue="&quot;filename&quot;" alwaysStopAt="true" />
     <variable name="OPTION" expression="" defaultValue="&quot;, ['class' =&gt; 'form-control']&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -108,7 +98,6 @@
     <variable name="DEFAULT" expression="" defaultValue="&quot;, null&quot;" alwaysStopAt="true" />
     <variable name="OPTION" expression="" defaultValue="&quot;, ['class' =&gt; 'form-control']&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -120,7 +109,6 @@
     <variable name="DEFAULT" expression="" defaultValue="&quot;, null&quot;" alwaysStopAt="true" />
     <variable name="OPTION" expression="" defaultValue="&quot;, ['class' =&gt; 'form-control']&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -130,7 +118,6 @@
     <variable name="DEFAULT" expression="" defaultValue="&quot;, null&quot;" alwaysStopAt="true" />
     <variable name="OPTION" expression="" defaultValue="&quot;, ['class' =&gt; 'form-control']&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -139,7 +126,6 @@
     <variable name="NAME" expression="" defaultValue="&quot;Submit&quot;" alwaysStopAt="true" />
     <variable name="OPTION" expression="" defaultValue="&quot;, ['class' =&gt; 'form-control']&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
@@ -147,8 +133,6 @@
   <template name="Form::macro" value="Form::macro('$NAME$', function()&#10;{&#10;    $END$&#10;});" description="Generate a Form Macro" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="&quot;macro&quot;" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
       <option name="PHP" value="true" />
     </context>
   </template>

@@ -1,43 +1,18 @@
 <templateSet group="user">
-  <template name="dump" value="echo '&lt;pre&gt;';&#10;print_r();&#10;echo '&lt;/pre&gt;';&#10;exit();" toReformat="true" toShortenFQNames="true">
+  <template name="dump" value="echo '&lt;pre&gt;';&#10;print_r();&#10;echo '&lt;/pre&gt;';&#10;exit();" description="" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="XML_TEXT" value="false" />
-      <option name="JSON" value="false" />
-      <option name="SQL" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JS_EXPRESSION" value="false" />
-      <option name="JS_STATEMENT" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="PHP" value="true" />
       <option name="PHP Comment" value="false" />
       <option name="PHP String Literal" value="false" />
-      <option name="HAML" value="false" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="lorem" value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque augue orci, interdum a placerat eget, mattis nec justo. Duis dapibus magna non elit posuere condimentum. Nunc pulvinar mattis bibendum. Nulla placerat, quam eget mattis fringilla, leo odio pretium magna, at fringilla tortor sem ac massa. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis velit libero, consectetur id egestas at, fermentum vitae erat. Sed quis laoreet est. Duis tincidunt odio ac ullamcorper suscipit. Nullam non nibh elit. Donec hendrerit tincidunt magna, eget faucibus ligula cursus a. Vivamus congue enim eu ipsum placerat, in ultrices lorem placerat." toReformat="false" toShortenFQNames="true">
+  <template name="lorem" value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque augue orci, interdum a placerat eget, mattis nec justo. Duis dapibus magna non elit posuere condimentum. Nunc pulvinar mattis bibendum. Nulla placerat, quam eget mattis fringilla, leo odio pretium magna, at fringilla tortor sem ac massa. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis velit libero, consectetur id egestas at, fermentum vitae erat. Sed quis laoreet est. Duis tincidunt odio ac ullamcorper suscipit. Nullam non nibh elit. Donec hendrerit tincidunt magna, eget faucibus ligula cursus a. Vivamus congue enim eu ipsum placerat, in ultrices lorem placerat." description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
-      <option name="JSON" value="true" />
-      <option name="Twig" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
+      <option name="JSON" value="true" />
       <option name="PHP" value="true" />
-      <option name="PHP Comment" value="true" />
-      <option name="PHP String Literal" value="true" />
+      <option name="Twig" value="true" />
     </context>
   </template>
 </templateSet>
