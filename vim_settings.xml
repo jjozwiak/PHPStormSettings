@@ -1,0 +1,49 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/HomesteadSites/tefl/routes/web.php" timestamp="1495117976739">
+        <mark key="'" line="162" column="71" />
+        <mark key="[" line="142" column="28" />
+        <mark key="]" line="142" column="29" />
+        <mark key="." line="142" column="29" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="142" column="32" filename="$USER_HOME$/HomesteadSites/tefl/routes/web.php" />
+      <jump line="145" column="75" filename="$USER_HOME$/HomesteadSites/tefl/routes/web.php" />
+      <jump line="162" column="71" filename="$USER_HOME$/HomesteadSites/tefl/routes/web.php" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6bWF0Y2goWycnXSkgIAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6bWF0Y2goWycnXSkgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">a2ZqZGtqc2ZkCg==</text>
+      </register>
+      <register name="/" type="4">
+        <text>Readings Routes</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>Readings Routes</last-search>
+      <last-offset />
+      <last-pattern>Readings Routes</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>deck</entry>
+        <entry>removeWord</entry>
+        <entry>reading.update</entry>
+        <entry>Readings Routes</entry>
+      </history-search>
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
