@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/HomesteadSites/tefl/routes/web.php" timestamp="1495117976739">
@@ -8,6 +8,30 @@
         <mark key="[" line="142" column="28" />
         <mark key="]" line="142" column="29" />
         <mark key="." line="142" column="29" />
+      </file>
+      <file name="$USER_HOME$/HomesteadSites/tefl/resources/views/reading/index.blade.php" timestamp="1495121181848">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/HomesteadSites/tefl/app/Http/Controllers/ReadingController.php" timestamp="1495119899402">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+      </file>
+      <file name="/a.sql" timestamp="1495120195147">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/HomesteadSites/tefl/resources/views/layouts/sidebar.blade.php" timestamp="1495120237238">
+        <mark key="[" line="35" column="52" />
+        <mark key="]" line="35" column="45" />
+        <mark key="^" line="35" column="45" />
+        <mark key="." line="35" column="45" />
+      </file>
+      <file name="/dummy.sql" timestamp="1495120168026">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -17,13 +41,22 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6bWF0Y2goWycnXSkgIAo=</text>
+        <text encoding="base64">ICAgcmVhZGluZ3MK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6bWF0Y2goWycnXSkgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgQA==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6bWF0Y2goWycnXSkgIAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">a2ZqZGtqc2ZkCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICAgICAgQA==</text>
       </register>
       <register name="/" type="4">
         <text>Readings Routes</text>
