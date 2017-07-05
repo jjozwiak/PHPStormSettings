@@ -136,6 +136,9 @@
       <webServer id="100e442c-cdb7-4f2e-8ad2-69d216657884" name="local.drupal.com" url="http://local.drupal.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b24823b3-7074-42c5-b9b9-e9f06ba98c4e" name="local.belotero.com" url="http://local.belotero.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
