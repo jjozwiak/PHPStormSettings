@@ -139,7 +139,10 @@
       <webServer id="b24823b3-7074-42c5-b9b9-e9f06ba98c4e" name="local.belotero.com" url="http://local.belotero.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="0f5e42bd-9ee3-4f0b-bac9-18ccb2dd2468" name="local.belotero.com" url="http://local.belotero.com">
+      <webServer id="0f5e42bd-9ee3-4f0b-bac9-18ccb2dd2468" name="local.belotero.com (1)" url="http://local.belotero.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="9a99a1b0-a019-4be7-a5a6-3fc6119392d3" name="local.describe.com" url="http://local.describe.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
