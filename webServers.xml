@@ -145,6 +145,9 @@
       <webServer id="9a99a1b0-a019-4be7-a5a6-3fc6119392d3" name="local.describe.com" url="http://local.describe.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="d99c9280-2334-4c93-96e2-0d7582fe3739" name="Meraki Integrations" url="http://localhost:8000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
