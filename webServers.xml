@@ -148,6 +148,9 @@
       <webServer id="d99c9280-2334-4c93-96e2-0d7582fe3739" name="Meraki Integrations" url="http://localhost:8000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="2b18a276-a8d4-450a-bc03-ee23d3eaafd4" name="local.harvestintegration.com" url="http://local.harvestintegration.com/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
