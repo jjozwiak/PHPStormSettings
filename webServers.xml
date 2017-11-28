@@ -151,6 +151,9 @@
       <webServer id="2b18a276-a8d4-450a-bc03-ee23d3eaafd4" name="local.harvestintegration.com" url="http://local.harvestintegration.com/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3cf812f9-6594-4bda-9fae-b5c918ce3fad" name="local.foa.com" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
