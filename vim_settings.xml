@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/HomesteadSites/tefl/routes/web.php" timestamp="1495117976739">
@@ -24,11 +24,23 @@
       <file name="/a.sql" timestamp="1495120195147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/HomesteadSites/advent-of-code-2017/day1/ReverseCaptcha.php" timestamp="1512396660646">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/HomesteadSites/advent-of-code-2017/day1/ReverseCaptcha.php" timestamp="1512399641062">
+        <mark key="[" line="40" column="57" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="40" column="59" />
+        <mark key="." line="39" column="60" />
+      </file>
+      <file name="$USER_HOME$/HomesteadSites/advent-of-code-2017/tests/ReverseCaptchaTest.php" timestamp="1512398778435">
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="46" column="46" />
+        <mark key="^" line="46" column="46" />
+        <mark key="." line="46" column="46" />
+      </file>
+      <file name="$USER_HOME$/HomesteadSites/advent-of-code-2017/day1/run.php" timestamp="1512398877721">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
       </file>
       <file name="$USER_HOME$/HomesteadSites/tefl/resources/views/layouts/sidebar.blade.php" timestamp="1495120237238">
         <mark key="[" line="35" column="52" />
@@ -46,29 +58,44 @@
       <jump line="162" column="71" filename="$USER_HOME$/HomesteadSites/tefl/routes/web.php" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAK</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgcmVhZGluZ3MK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6bWF0Y2goWycnXSkgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">a2ZqZGtqc2ZkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgQA==</text>
       </register>
       <register name="/" type="4">
         <text>Readings Routes</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDMsICRjYXB0Y2hhLT5nZXRTdW0oKSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRuZXh0X2ludCA9ICR0aGlzLT5pbnB1dFswXTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRpICsgMSA9PT0gJHRoaXMtPmlucHV0X2xlbmd0aCkgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJG5leHRfaW5kZXggPSAkaSArIDE7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRuZXh0X2ludCA9ICR0aGlzLT5pbnB1dFskbmV4dF9pbmRleF07Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJG5leHRfaW50ID0gJHRoaXMtPmlucHV0WyRuZXh0X2luZGV4XTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
@@ -89,6 +116,16 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
