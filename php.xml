@@ -12,7 +12,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="ssh://vagrant@192.168.10.10:22/usr/bin/php" id="88eb7352-e77d-4da6-afbd-d83522106011" name="Homestead PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.10.10" PORT="22" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="192.168.10.10" PORT="22" USERNAME="vagrant" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
