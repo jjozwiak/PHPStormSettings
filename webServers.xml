@@ -154,6 +154,9 @@
       <webServer id="3cf812f9-6594-4bda-9fae-b5c918ce3fad" name="local.foa.com" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="cba1cda6-c79e-4cc2-82b5-245b7be8a9dd" name="local.fastpm.com" url="http://local.fastpm.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
