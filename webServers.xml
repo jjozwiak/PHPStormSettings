@@ -160,6 +160,9 @@
       <webServer id="1f77e031-ff83-4ff9-846f-47d82671ffcd" name="local.ultherapy.com" url="http://local.ultherapy.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a9ee3984-6927-41f2-91e0-4147506493a5" name="ultherapy" url="http://192.168.33.12/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
