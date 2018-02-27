@@ -166,6 +166,9 @@
       <webServer id="a061d9f4-b229-4f58-ac31-9af2bcd6faf1" name="exercism" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3864785f-8677-4034-a2d3-1ab46d965b00" name="localhost" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
