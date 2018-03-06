@@ -169,6 +169,9 @@
       <webServer id="3864785f-8677-4034-a2d3-1ab46d965b00" name="localhost" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="73caf3d1-ed50-4a89-8885-1791a61683d0" name="local.appdoc.io" url="http://local.appdoc.io">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
