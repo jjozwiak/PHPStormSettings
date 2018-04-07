@@ -172,7 +172,10 @@
       <webServer id="73caf3d1-ed50-4a89-8885-1791a61683d0" name="local.appdoc.io" url="http://local.appdoc.io">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="04e6c58a-80d4-4af5-855a-ba121c5cc0c5" name="local.describe.com" url="http://local.describe.com">
+      <webServer id="04e6c58a-80d4-4af5-855a-ba121c5cc0c5" name="local.describe.com (1)" url="http://local.describe.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="4f5a7ae6-fa9a-4a19-a9ad-8b81cf956bc5" name="local.forum.com" url="http://local.forum.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
