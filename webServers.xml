@@ -178,7 +178,10 @@
       <webServer id="4f5a7ae6-fa9a-4a19-a9ad-8b81cf956bc5" name="local.forum.com" url="http://local.forum.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="259678da-74ee-4065-8847-d5108ddafa4d" name="ultherapy" url="http://192.168.10.54">
+      <webServer id="259678da-74ee-4065-8847-d5108ddafa4d" name="ultherapy (1)" url="http://192.168.10.54">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="183f0089-4ca2-4cc8-a09e-d9fe9b17e2a0" name="local.sitescraper.com" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
