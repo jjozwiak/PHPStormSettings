@@ -1,9 +1,0 @@
-<templateSet group="Javascript">
-  <template name="jsfetch" value="return fetch('/url', {&#10;  method: 'POST',&#10;  headers: {&#10;    'Accept': 'application/json',&#10;    'Content-Type': 'application/json',&#10;  },&#10;  body: JSON.stringify({&#10;    key: value,&#10;  })&#10;})&#10;.then((response) =&gt; { &#10;  return response.json();&#10;})&#10;.then((response) =&gt; {&#10;  return response;&#10;})&#10;.catch((error) =&gt; {&#10;  return error;&#10;});" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
