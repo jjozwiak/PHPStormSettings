@@ -187,6 +187,9 @@
       <webServer id="9f0b5c0a-0b45-481d-8d7a-4de4e207b167" name="local.abdtaxaccounting.com" url="http://local.abdtaxaccounting.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="66fa090a-9f50-4163-a445-d5aad6586202" name="App Doc" url="http://local.appdoc.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
