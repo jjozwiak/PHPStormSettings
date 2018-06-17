@@ -190,6 +190,9 @@
       <webServer id="66fa090a-9f50-4163-a445-d5aad6586202" name="App Doc" url="http://local.appdoc.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="7bc0f44b-0b4b-4fe8-89b8-30cb13495126" name="local.borscht.com/" url="http://local.borscht.com/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
