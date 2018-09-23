@@ -199,6 +199,9 @@
       <webServer id="a6d8571c-473a-421c-bd54-d5bc818420dc" name="local.merakibots.com" url="http://local.merakibots.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="52a3e5a9-6831-4616-8851-ca7b22386392" name="local.bots.com" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
