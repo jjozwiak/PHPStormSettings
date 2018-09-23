@@ -196,6 +196,9 @@
       <webServer id="a11cbd3d-76de-43af-9b0e-dea62d586db6" name="local.ultherapywp.com" url="http://local.ultherapywp.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a6d8571c-473a-421c-bd54-d5bc818420dc" name="local.merakibots.com" url="http://local.merakibots.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
