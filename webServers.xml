@@ -202,6 +202,9 @@
       <webServer id="52a3e5a9-6831-4616-8851-ca7b22386392" name="local.bots.com" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a8b760fa-8615-4195-bbd6-162d244d9219" name="local.yourstud.io" url="http://local.yourstud.io">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
