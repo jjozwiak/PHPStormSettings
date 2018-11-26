@@ -205,6 +205,9 @@
       <webServer id="a8b760fa-8615-4195-bbd6-162d244d9219" name="local.yourstud.io" url="http://local.yourstud.io">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="49313b17-eb1d-476b-bbfe-c61ae8e89180" name="MER" url="http://172.24.0.2">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
