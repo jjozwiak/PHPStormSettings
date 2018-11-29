@@ -208,6 +208,9 @@
       <webServer id="49313b17-eb1d-476b-bbfe-c61ae8e89180" name="MER" url="http://172.24.0.2">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a3d0c2ab-a310-4c4e-b9c7-6892ba43253b" name="Experience Builder" url="http://laravel.local:8000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
