@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/HomesteadSites/tefl/routes/web.php" timestamp="1495117976739">
@@ -46,7 +46,7 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/experience-builder/resources/assets/js/builder/components/Facilitator.vue" timestamp="1555336258591">
+      <file name="$USER_HOME$/Sites/experience-builder/resources/assets/js/builder/components/Facilitator.vue" timestamp="1555339172066">
         <mark key="[" line="16" column="16" />
       </file>
       <file name="$USER_HOME$/HomesteadSites/tefl/resources/views/layouts/sidebar.blade.php" timestamp="1495120237238">
