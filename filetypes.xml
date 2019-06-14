@@ -6,6 +6,7 @@
       <mapping ext="info" type="PHP" />
       <mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="ShipmentEmailObserver.php" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk" type="PLAIN_TEXT" />
       <mapping ext="layout" type="PLAIN_TEXT" />
