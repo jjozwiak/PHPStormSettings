@@ -211,6 +211,9 @@
       <webServer id="a3d0c2ab-a310-4c4e-b9c7-6892ba43253b" name="Experience Builder" url="http://laravel.local:8000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="de50d90a-2cbb-481d-837f-2abbd1a5e2c7" name="Health Means" url="http://local.hmadmin.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
