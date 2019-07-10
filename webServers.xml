@@ -214,6 +214,9 @@
       <webServer id="de50d90a-2cbb-481d-837f-2abbd1a5e2c7" name="Health Means" url="http://local.hmadmin.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="92584b0f-10e7-4c10-b9bf-1f7dfee157e2" name="local.merzsocialtoolkit.com" url="http://local.merzsocialtoolkit.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
