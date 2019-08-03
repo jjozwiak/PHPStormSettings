@@ -217,6 +217,9 @@
       <webServer id="92584b0f-10e7-4c10-b9bf-1f7dfee157e2" name="local.merzsocialtoolkit.com" url="http://local.merzsocialtoolkit.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="1a3a403f-052f-428e-913a-94c7b3700f09" name="Merz Social Toolkit CMS" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
